@@ -1,0 +1,5 @@
+FROM rust:1.59.0
+
+EXPOSE 8000
+
+WORKDIR /app
