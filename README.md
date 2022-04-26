@@ -14,10 +14,10 @@ docker run -it --rm -v `pwd`:/app -p 80:8000 poseidon
 
 ## Brief usage
 
-Run application.
+Run application in the Docker container.
 
 ```bash
-cd poseidon
+cd /app
 cargo run
 ```
 
